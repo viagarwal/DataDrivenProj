@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="47701" started-at="2016-07-24T18:36:31Z" finished-at="2016-07-24T18:37:18Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="47701" started-at="2016-07-24T18:36:31Z" finished-at="2016-07-24T18:37:18Z">
+      <class name="com.propertyfinder.testcases.findproperty">
+        <test-method status="PASS" signature="initializeTestBaseSetup()[pri:0, instance:com.propertyfinder.testcases.findproperty@2e447a24]" name="initializeTestBaseSetup" is-config="true" duration-ms="17525" started-at="2016-07-25T00:06:13Z" finished-at="2016-07-25T00:06:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeTestBaseSetup -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.propertyfinder.testcases.findproperty@2e447a24]" name="setUp" is-config="true" duration-ms="44" started-at="2016-07-25T00:06:31Z" finished-at="2016-07-25T00:06:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="propertyfinder(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.propertyfinder.testcases.findproperty@2e447a24]" name="propertyfinder" duration-ms="46948" started-at="2016-07-25T00:06:31Z" description="Find property in and validation" data-provider="getExcelData" finished-at="2016-07-25T00:07:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Rent]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2 Beds]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Marina]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Apartment]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- propertyfinder -->
+      </class> <!-- com.propertyfinder.testcases.findproperty -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
