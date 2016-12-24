@@ -1,17 +1,13 @@
 package com.propertyfinder.utils;
 
-import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
-import java.nio.file.Path;
-import java.nio.file.Paths;
+import java.lang.reflect.Method;
 
 import jxl.Sheet;
 import jxl.Workbook;
 import jxl.read.biff.BiffException;
 
-import org.testng.ITestContext;
-import org.testng.ITestNGMethod;
 import org.testng.annotations.DataProvider;
 
 public class ReadExcelDataProvider {
@@ -23,17 +19,13 @@ public class ReadExcelDataProvider {
 	 * @param Sheet Name
 	 * @return
 	 */
-	@DataProvider(name = "getExcelData")
-	public static Object [][] getExcelData(ITestNGMethod methodName, ITestContext testContext) {
+	@DataProvider(name="getExcelData")
+	public static Object [][] getExcelData(Method methodName) {
 		String[][] arrayExcelData = null;
 		try {
-			String fileName = methodName.getRealClass().getCanonicalName().replaceAll("\\.", "/");
-			String inputDataFile = "testdata/"+fileName+".xls";
-			final String dir = System.getProperty("user.dir");
-			Path path = Paths.get(dir, "src\\test\\java\\", inputDataFile);
-			FileInputStream fs = new FileInputStream(path.toString());
-			Workbook wb = Workbook.getWorkbook(fs);
-			Sheet sh = wb.getSheet(methodName.getMethodName());
+			String fileName = methodName.getDeclaringClass().getCanonicalName().replaceAll(methodName.getDeclaringClass().getPackage().getName()+".", "");
+			Workbook wb = Workbook.getWorkbook(ReadExcelDataProvider.class.getClassLoader().getResourceAsStream(fileName+".xls"));
+			Sheet sh = wb.getSheet(methodName.getName());
 			int totalNoOfCols = sh.getColumns();
 			int totalNoOfRows = sh.getRows();
 			arrayExcelData = new String[totalNoOfRows-1][totalNoOfCols];		
@@ -52,5 +44,4 @@ public class ReadExcelDataProvider {
 		}
 		return arrayExcelData;
 	}
-
 }

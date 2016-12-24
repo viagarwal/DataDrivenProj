@@ -1,5 +1,6 @@
 package com.propertyfinder.utils;
 
+
 import java.io.IOException;
 
 import org.openqa.selenium.By;
@@ -11,6 +12,8 @@ import org.testng.ITestResult;
 import org.testng.internal.IResultListener;
 
 import com.relevantcodes.extentreports.LogStatus;
+
+import core.Driver;
 
 public class WebDriverListener extends Driver implements WebDriverEventListener, IResultListener {
 
@@ -77,18 +80,6 @@ public class WebDriverListener extends Driver implements WebDriverEventListener,
 		// TODO Auto-generated method stub
 		logger.info("After Click on" + element.toString().split("->",2)[1]);
 		test.log(LogStatus.INFO,"After Click on",element.toString().split("->",2)[1]);
-
-	}
-
-	@Override
-	public void beforeChangeValueOf(WebElement element, WebDriver driver) {
-		// TODO Auto-generated method stub
-
-	}
-
-	@Override
-	public void afterChangeValueOf(WebElement element, WebDriver driver) {
-		// TODO Auto-generated method stub
 
 	}
 
@@ -192,6 +183,20 @@ public class WebDriverListener extends Driver implements WebDriverEventListener,
 
 	@Override
 	public void afterNavigateRefresh(WebDriver driver) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void beforeChangeValueOf(WebElement element, WebDriver driver,
+			CharSequence[] keysToSend) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void afterChangeValueOf(WebElement element, WebDriver driver,
+			CharSequence[] keysToSend) {
 		// TODO Auto-generated method stub
 		
 	}

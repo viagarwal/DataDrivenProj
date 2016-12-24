@@ -1,195 +1,67 @@
-2016-07-24 22:17:17 INFO  WebDriverListener:94 - Launching google chrome with new profile..
-2016-07-24 22:17:41 INFO  WebDriverListener:137 - description=====null
-2016-07-24 22:21:03 INFO  WebDriverListener:94 - Launching google chrome with new profile..
-2016-07-24 22:21:18 INFO  WebDriverListener:71 - Before Click on css selector: button.ms-choice]
-2016-07-24 22:21:19 INFO  WebDriverListener:78 - After Click on css selector: button.ms-choice]
-2016-07-24 22:21:24 INFO  WebDriverListener:71 - Before Click on css selector: div.tt-suggestion.tt-selectable]
-2016-07-24 22:21:25 INFO  WebDriverListener:78 - After Click on css selector: div.tt-suggestion.tt-selectable]
-2016-07-24 22:21:25 INFO  WebDriverListener:71 - Before Click on css selector: button[type='submit']]
-2016-07-24 22:21:26 INFO  WebDriverListener:78 - After Click on css selector: button[type='submit']]
-2016-07-24 22:21:26 INFO  WebDriverListener:137 - description=====Find property in and validation
-2016-07-24 22:30:48 INFO  WebDriverListener:94 - Launching google chrome with new profile..
-2016-07-24 22:31:02 INFO  WebDriverListener:71 - Before Click on css selector: button.ms-choice]
-2016-07-24 22:31:03 INFO  WebDriverListener:78 - After Click on css selector: button.ms-choice]
-2016-07-24 22:31:08 INFO  WebDriverListener:71 - Before Click on css selector: div.tt-suggestion.tt-selectable]
-2016-07-24 22:31:09 INFO  WebDriverListener:78 - After Click on css selector: div.tt-suggestion.tt-selectable]
-2016-07-24 22:31:09 INFO  WebDriverListener:71 - Before Click on css selector: div#bedroom_group button.ms-choice]
-2016-07-24 22:31:10 INFO  WebDriverListener:78 - After Click on css selector: div#bedroom_group button.ms-choice]
-2016-07-24 22:31:12 INFO  WebDriverListener:71 - Before Click on css selector: button[type='submit']]
-2016-07-24 22:31:13 INFO  WebDriverListener:78 - After Click on css selector: button[type='submit']]
-2016-07-24 22:31:13 INFO  WebDriverListener:137 - description=====Find property in and validation
-2016-07-24 22:55:27 INFO  WebDriverListener:94 - Launching google chrome with new profile..
-2016-07-24 22:55:50 INFO  WebDriverListener:71 - Before Click on css selector: button.ms-choice]
-2016-07-24 22:55:51 INFO  WebDriverListener:78 - After Click on css selector: button.ms-choice]
-2016-07-24 22:55:56 INFO  WebDriverListener:71 - Before Click on css selector: div.tt-suggestion.tt-selectable]
-2016-07-24 22:55:58 INFO  WebDriverListener:78 - After Click on css selector: div.tt-suggestion.tt-selectable]
-2016-07-24 22:55:59 INFO  WebDriverListener:71 - Before Click on css selector: div#bedroom_group button.ms-choice]
-2016-07-24 22:56:00 INFO  WebDriverListener:78 - After Click on css selector: div#bedroom_group button.ms-choice]
-2016-07-24 22:56:02 INFO  WebDriverListener:71 - Before Click on xpath: //span[contains(text(),'Property type')]/ancestor ::div[@class='ms-parent']]
-2016-07-24 22:56:03 INFO  WebDriverListener:78 - After Click on xpath: //span[contains(text(),'Property type')]/ancestor ::div[@class='ms-parent']]
-2016-07-24 22:56:07 INFO  WebDriverListener:71 - Before Click on css selector: button[type='submit']]
-2016-07-24 22:56:08 INFO  WebDriverListener:78 - After Click on css selector: button[type='submit']]
-2016-07-24 22:56:08 INFO  WebDriverListener:137 - description=====Find property in and validation
-2016-07-24 23:11:28 INFO  WebDriverListener:94 - Launching google chrome with new profile..
-2016-07-24 23:11:51 INFO  WebDriverListener:71 - Before Click on css selector: button.ms-choice]
-2016-07-24 23:11:52 INFO  WebDriverListener:78 - After Click on css selector: button.ms-choice]
-2016-07-24 23:11:53 INFO  WebDriverListener:71 - Before Click on xpath: //div[contains(@class,'category')]//div[@class='ms-drop ']//li[contains(text(),'Rent')]]
-2016-07-24 23:11:56 INFO  WebDriverListener:78 - After Click on xpath: //div[contains(@class,'category')]//div[@class='ms-drop ']//li[contains(text(),'Rent')]]
-2016-07-24 23:12:01 INFO  WebDriverListener:71 - Before Click on css selector: div.tt-suggestion.tt-selectable]
-2016-07-24 23:12:03 INFO  WebDriverListener:78 - After Click on css selector: div.tt-suggestion.tt-selectable]
-2016-07-24 23:12:04 INFO  WebDriverListener:71 - Before Click on css selector: div#bedroom_group button.ms-choice]
-2016-07-24 23:12:06 INFO  WebDriverListener:78 - After Click on css selector: div#bedroom_group button.ms-choice]
-2016-07-24 23:12:07 INFO  WebDriverListener:71 - Before Click on xpath: //div[@id='bedroom_group']//div[@class='ms-drop ']//li[contains(text(),'2 Beds')]]
-2016-07-24 23:12:10 INFO  WebDriverListener:78 - After Click on xpath: //div[@id='bedroom_group']//div[@class='ms-drop ']//li[contains(text(),'2 Beds')]]
-2016-07-24 23:12:11 INFO  WebDriverListener:71 - Before Click on xpath: //span[contains(text(),'Property type')]/ancestor ::div[@class='ms-parent']]
-2016-07-24 23:12:12 INFO  WebDriverListener:78 - After Click on xpath: //span[contains(text(),'Property type')]/ancestor ::div[@class='ms-parent']]
-2016-07-24 23:12:12 INFO  WebDriverListener:71 - Before Click on xpath: //div[@class='pure-g']//li[contains(text(),'Apartment')]]
-2016-07-24 23:12:15 INFO  WebDriverListener:78 - After Click on xpath: //div[@class='pure-g']//li[contains(text(),'Apartment')]]
-2016-07-24 23:12:16 INFO  WebDriverListener:71 - Before Click on css selector: button[type='submit']]
-2016-07-24 23:12:17 INFO  WebDriverListener:78 - After Click on css selector: button[type='submit']]
-2016-07-24 23:12:31 INFO  WebDriverListener:137 - description=====Find property in and validation
-2016-07-24 23:14:57 INFO  WebDriverListener:94 - Launching google chrome with new profile..
-2016-07-24 23:15:19 INFO  WebDriverListener:71 - Before Click on css selector: button.ms-choice]
-2016-07-24 23:15:20 INFO  WebDriverListener:78 - After Click on css selector: button.ms-choice]
-2016-07-24 23:15:22 INFO  WebDriverListener:71 - Before Click on xpath: //div[contains(@class,'category')]//div[@class='ms-drop ']//li[contains(text(),'Rent')]]
-2016-07-24 23:15:23 INFO  WebDriverListener:78 - After Click on xpath: //div[contains(@class,'category')]//div[@class='ms-drop ']//li[contains(text(),'Rent')]]
-2016-07-24 23:15:27 INFO  WebDriverListener:71 - Before Click on css selector: div.tt-suggestion.tt-selectable]
-2016-07-24 23:15:28 INFO  WebDriverListener:78 - After Click on css selector: div.tt-suggestion.tt-selectable]
-2016-07-24 23:15:29 INFO  WebDriverListener:71 - Before Click on css selector: div#bedroom_group button.ms-choice]
-2016-07-24 23:15:31 INFO  WebDriverListener:78 - After Click on css selector: div#bedroom_group button.ms-choice]
-2016-07-24 23:15:32 INFO  WebDriverListener:71 - Before Click on xpath: //div[@id='bedroom_group']//div[@class='ms-drop ']//li[contains(text(),'2 Beds')]]
-2016-07-24 23:15:33 INFO  WebDriverListener:78 - After Click on xpath: //div[@id='bedroom_group']//div[@class='ms-drop ']//li[contains(text(),'2 Beds')]]
-2016-07-24 23:15:35 INFO  WebDriverListener:71 - Before Click on xpath: //span[contains(text(),'Property type')]/ancestor ::div[@class='ms-parent']]
-2016-07-24 23:15:36 INFO  WebDriverListener:78 - After Click on xpath: //span[contains(text(),'Property type')]/ancestor ::div[@class='ms-parent']]
-2016-07-24 23:15:36 INFO  WebDriverListener:71 - Before Click on xpath: //div[@class='pure-g']//li[contains(text(),'Apartment')]]
-2016-07-24 23:15:37 INFO  WebDriverListener:78 - After Click on xpath: //div[@class='pure-g']//li[contains(text(),'Apartment')]]
-2016-07-24 23:15:38 INFO  WebDriverListener:71 - Before Click on css selector: button[type='submit']]
-2016-07-24 23:15:39 INFO  WebDriverListener:78 - After Click on css selector: button[type='submit']]
-2016-07-24 23:15:40 INFO  WebDriverListener:137 - description=====Find property in and validation
-2016-07-24 23:19:09 INFO  WebDriverListener:94 - Launching google chrome with new profile..
-2016-07-24 23:19:34 INFO  WebDriverListener:71 - Before Click on css selector: button.ms-choice]
-2016-07-24 23:19:35 INFO  WebDriverListener:78 - After Click on css selector: button.ms-choice]
-2016-07-24 23:19:38 INFO  WebDriverListener:71 - Before Click on xpath: //div[contains(@class,'category')]//div[@class='ms-drop ']//li[contains(text(),'Rent')]]
-2016-07-24 23:19:39 INFO  WebDriverListener:78 - After Click on xpath: //div[contains(@class,'category')]//div[@class='ms-drop ']//li[contains(text(),'Rent')]]
-2016-07-24 23:19:45 INFO  WebDriverListener:71 - Before Click on css selector: div.tt-suggestion.tt-selectable]
-2016-07-24 23:19:47 INFO  WebDriverListener:78 - After Click on css selector: div.tt-suggestion.tt-selectable]
-2016-07-24 23:19:48 INFO  WebDriverListener:71 - Before Click on css selector: div#bedroom_group button.ms-choice]
-2016-07-24 23:19:49 INFO  WebDriverListener:78 - After Click on css selector: div#bedroom_group button.ms-choice]
-2016-07-24 23:19:49 INFO  WebDriverListener:71 - Before Click on xpath: //div[@id='bedroom_group']//div[@class='ms-drop ']//li[contains(text(),'2 Beds')]]
-2016-07-24 23:19:50 INFO  WebDriverListener:78 - After Click on xpath: //div[@id='bedroom_group']//div[@class='ms-drop ']//li[contains(text(),'2 Beds')]]
-2016-07-24 23:19:51 INFO  WebDriverListener:71 - Before Click on xpath: //span[contains(text(),'Property type')]/ancestor ::div[@class='ms-parent']]
-2016-07-24 23:19:52 INFO  WebDriverListener:78 - After Click on xpath: //span[contains(text(),'Property type')]/ancestor ::div[@class='ms-parent']]
-2016-07-24 23:19:52 INFO  WebDriverListener:71 - Before Click on xpath: //div[@class='pure-g']//li[contains(text(),'Apartment')]]
-2016-07-24 23:19:55 INFO  WebDriverListener:78 - After Click on xpath: //div[@class='pure-g']//li[contains(text(),'Apartment')]]
-2016-07-24 23:19:56 INFO  WebDriverListener:71 - Before Click on css selector: button[type='submit']]
-2016-07-24 23:19:57 INFO  WebDriverListener:78 - After Click on css selector: button[type='submit']]
-2016-07-24 23:20:39 INFO  WebDriverListener:137 - description=====Find property in and validation
-2016-07-24 23:44:33 INFO  WebDriverListener:94 - Launching google chrome with new profile..
-2016-07-24 23:44:51 INFO  WebDriverListener:71 - Before Click on css selector: button.ms-choice]
-2016-07-24 23:44:52 INFO  WebDriverListener:78 - After Click on css selector: button.ms-choice]
-2016-07-24 23:44:53 INFO  WebDriverListener:71 - Before Click on xpath: //div[contains(@class,'category')]//div[@class='ms-drop ']//li[contains(text(),'Rent')]]
-2016-07-24 23:44:54 INFO  WebDriverListener:78 - After Click on xpath: //div[contains(@class,'category')]//div[@class='ms-drop ']//li[contains(text(),'Rent')]]
-2016-07-24 23:44:56 INFO  WebDriverListener:71 - Before Click on css selector: div.tt-suggestion.tt-selectable]
-2016-07-24 23:44:57 INFO  WebDriverListener:78 - After Click on css selector: div.tt-suggestion.tt-selectable]
-2016-07-24 23:44:57 INFO  WebDriverListener:71 - Before Click on css selector: div#bedroom_group button.ms-choice]
-2016-07-24 23:44:57 INFO  WebDriverListener:78 - After Click on css selector: div#bedroom_group button.ms-choice]
-2016-07-24 23:44:57 INFO  WebDriverListener:71 - Before Click on xpath: //div[@id='bedroom_group']//div[@class='ms-drop ']//li[contains(text(),'2 Beds')]]
-2016-07-24 23:44:57 INFO  WebDriverListener:78 - After Click on xpath: //div[@id='bedroom_group']//div[@class='ms-drop ']//li[contains(text(),'2 Beds')]]
-2016-07-24 23:44:57 INFO  WebDriverListener:71 - Before Click on xpath: //span[contains(text(),'Property type')]/ancestor ::div[@class='ms-parent']]
-2016-07-24 23:44:57 INFO  WebDriverListener:78 - After Click on xpath: //span[contains(text(),'Property type')]/ancestor ::div[@class='ms-parent']]
-2016-07-24 23:44:57 INFO  WebDriverListener:71 - Before Click on xpath: //div[@class='pure-g']//li[contains(text(),'Apartment')]]
-2016-07-24 23:44:58 INFO  WebDriverListener:78 - After Click on xpath: //div[@class='pure-g']//li[contains(text(),'Apartment')]]
-2016-07-24 23:44:58 INFO  WebDriverListener:71 - Before Click on css selector: button[type='submit']]
-2016-07-24 23:44:58 INFO  WebDriverListener:78 - After Click on css selector: button[type='submit']]
-2016-07-24 23:45:06 INFO  WebDriverListener:137 - description=====Find property in and validation
-2016-07-24 23:47:33 INFO  WebDriverListener:94 - Launching google chrome with new profile..
-2016-07-24 23:47:54 INFO  WebDriverListener:71 - Before Click on css selector: button.ms-choice]
-2016-07-24 23:47:55 INFO  WebDriverListener:78 - After Click on css selector: button.ms-choice]
-2016-07-24 23:47:56 INFO  WebDriverListener:71 - Before Click on xpath: //div[contains(@class,'category')]//div[@class='ms-drop ']//li[contains(text(),'Rent')]]
-2016-07-24 23:47:57 INFO  WebDriverListener:78 - After Click on xpath: //div[contains(@class,'category')]//div[@class='ms-drop ']//li[contains(text(),'Rent')]]
-2016-07-24 23:47:59 INFO  WebDriverListener:71 - Before Click on css selector: div.tt-suggestion.tt-selectable]
-2016-07-24 23:48:00 INFO  WebDriverListener:78 - After Click on css selector: div.tt-suggestion.tt-selectable]
-2016-07-24 23:48:00 INFO  WebDriverListener:71 - Before Click on css selector: div#bedroom_group button.ms-choice]
-2016-07-24 23:48:00 INFO  WebDriverListener:78 - After Click on css selector: div#bedroom_group button.ms-choice]
-2016-07-24 23:48:00 INFO  WebDriverListener:71 - Before Click on xpath: //div[@id='bedroom_group']//div[@class='ms-drop ']//li[contains(text(),'2 Beds')]]
-2016-07-24 23:48:00 INFO  WebDriverListener:78 - After Click on xpath: //div[@id='bedroom_group']//div[@class='ms-drop ']//li[contains(text(),'2 Beds')]]
-2016-07-24 23:48:00 INFO  WebDriverListener:71 - Before Click on xpath: //span[contains(text(),'Property type')]/ancestor ::div[@class='ms-parent']]
-2016-07-24 23:48:00 INFO  WebDriverListener:78 - After Click on xpath: //span[contains(text(),'Property type')]/ancestor ::div[@class='ms-parent']]
-2016-07-24 23:48:00 INFO  WebDriverListener:71 - Before Click on xpath: //div[@class='pure-g']//li[contains(text(),'Apartment')]]
-2016-07-24 23:48:00 INFO  WebDriverListener:78 - After Click on xpath: //div[@class='pure-g']//li[contains(text(),'Apartment')]]
-2016-07-24 23:48:00 INFO  WebDriverListener:71 - Before Click on css selector: button[type='submit']]
-2016-07-24 23:48:00 INFO  WebDriverListener:78 - After Click on css selector: button[type='submit']]
-2016-07-24 23:48:15 INFO  WebDriverListener:137 - description=====Find property in and validation
-2016-07-24 23:52:36 INFO  WebDriverListener:94 - Launching google chrome with new profile..
-2016-07-24 23:52:51 INFO  WebDriverListener:71 - Before Click on css selector: button.ms-choice]
-2016-07-24 23:52:52 INFO  WebDriverListener:78 - After Click on css selector: button.ms-choice]
-2016-07-24 23:52:53 INFO  WebDriverListener:71 - Before Click on xpath: //div[contains(@class,'category')]//div[@class='ms-drop ']//li[contains(text(),'Rent')]]
-2016-07-24 23:52:54 INFO  WebDriverListener:78 - After Click on xpath: //div[contains(@class,'category')]//div[@class='ms-drop ']//li[contains(text(),'Rent')]]
-2016-07-24 23:52:57 INFO  WebDriverListener:71 - Before Click on css selector: div.tt-suggestion.tt-selectable]
-2016-07-24 23:52:57 INFO  WebDriverListener:78 - After Click on css selector: div.tt-suggestion.tt-selectable]
-2016-07-24 23:52:58 INFO  WebDriverListener:71 - Before Click on css selector: div#bedroom_group button.ms-choice]
-2016-07-24 23:52:59 INFO  WebDriverListener:78 - After Click on css selector: div#bedroom_group button.ms-choice]
-2016-07-24 23:52:59 INFO  WebDriverListener:71 - Before Click on xpath: //div[@id='bedroom_group']//div[@class='ms-drop ']//li[contains(text(),'2 Beds')]]
-2016-07-24 23:53:00 INFO  WebDriverListener:78 - After Click on xpath: //div[@id='bedroom_group']//div[@class='ms-drop ']//li[contains(text(),'2 Beds')]]
-2016-07-24 23:53:00 INFO  WebDriverListener:71 - Before Click on xpath: //span[contains(text(),'Property type')]/ancestor ::div[@class='ms-parent']]
-2016-07-24 23:53:01 INFO  WebDriverListener:78 - After Click on xpath: //span[contains(text(),'Property type')]/ancestor ::div[@class='ms-parent']]
-2016-07-24 23:53:02 INFO  WebDriverListener:71 - Before Click on xpath: //div[@class='pure-g']//li[contains(text(),'Apartment')]]
-2016-07-24 23:53:03 INFO  WebDriverListener:78 - After Click on xpath: //div[@class='pure-g']//li[contains(text(),'Apartment')]]
-2016-07-24 23:53:03 INFO  WebDriverListener:71 - Before Click on css selector: button[type='submit']]
-2016-07-24 23:53:04 INFO  WebDriverListener:78 - After Click on css selector: button[type='submit']]
-2016-07-24 23:53:50 INFO  WebDriverListener:137 - description=====Find property in and validation
-2016-07-25 00:02:20 INFO  WebDriverListener:94 - Launching google chrome with new profile..
-2016-07-25 00:02:39 INFO  WebDriverListener:71 - Before Click on css selector: button.ms-choice]
-2016-07-25 00:02:41 INFO  WebDriverListener:78 - After Click on css selector: button.ms-choice]
-2016-07-25 00:02:42 INFO  WebDriverListener:71 - Before Click on xpath: //div[contains(@class,'category')]//div[@class='ms-drop ']//li[contains(text(),'Rent')]]
-2016-07-25 00:02:43 INFO  WebDriverListener:78 - After Click on xpath: //div[contains(@class,'category')]//div[@class='ms-drop ']//li[contains(text(),'Rent')]]
-2016-07-25 00:02:45 INFO  WebDriverListener:71 - Before Click on css selector: div.tt-suggestion.tt-selectable]
-2016-07-25 00:02:46 INFO  WebDriverListener:78 - After Click on css selector: div.tt-suggestion.tt-selectable]
-2016-07-25 00:02:47 INFO  WebDriverListener:71 - Before Click on css selector: div#bedroom_group button.ms-choice]
-2016-07-25 00:02:48 INFO  WebDriverListener:78 - After Click on css selector: div#bedroom_group button.ms-choice]
-2016-07-25 00:02:48 INFO  WebDriverListener:71 - Before Click on xpath: //div[@id='bedroom_group']//div[@class='ms-drop ']//li[contains(text(),'2 Beds')]]
-2016-07-25 00:02:49 INFO  WebDriverListener:78 - After Click on xpath: //div[@id='bedroom_group']//div[@class='ms-drop ']//li[contains(text(),'2 Beds')]]
-2016-07-25 00:02:50 INFO  WebDriverListener:71 - Before Click on xpath: //span[contains(text(),'Property type')]/ancestor ::div[@class='ms-parent']]
-2016-07-25 00:02:51 INFO  WebDriverListener:78 - After Click on xpath: //span[contains(text(),'Property type')]/ancestor ::div[@class='ms-parent']]
-2016-07-25 00:02:51 INFO  WebDriverListener:71 - Before Click on xpath: //div[@class='pure-g']//li[contains(text(),'Apartment')]]
-2016-07-25 00:02:53 INFO  WebDriverListener:78 - After Click on xpath: //div[@class='pure-g']//li[contains(text(),'Apartment')]]
-2016-07-25 00:02:53 INFO  WebDriverListener:71 - Before Click on css selector: button[type='submit']]
-2016-07-25 00:02:54 INFO  WebDriverListener:78 - After Click on css selector: button[type='submit']]
-2016-07-25 00:03:34 INFO  WebDriverListener:137 - description=====Find property in and validation
-2016-07-25 00:04:51 INFO  WebDriverListener:94 - Launching google chrome with new profile..
-2016-07-25 00:05:12 INFO  WebDriverListener:94 - Launching google chrome with new profile..
-2016-07-25 00:05:28 INFO  WebDriverListener:71 - Before Click on css selector: button.ms-choice]
-2016-07-25 00:05:29 INFO  WebDriverListener:78 - After Click on css selector: button.ms-choice]
-2016-07-25 00:05:30 INFO  WebDriverListener:71 - Before Click on xpath: //div[contains(@class,'category')]//div[@class='ms-drop ']//li[contains(text(),'Rent')]]
-2016-07-25 00:05:31 INFO  WebDriverListener:78 - After Click on xpath: //div[contains(@class,'category')]//div[@class='ms-drop ']//li[contains(text(),'Rent')]]
-2016-07-25 00:05:34 INFO  WebDriverListener:71 - Before Click on css selector: div.tt-suggestion.tt-selectable]
-2016-07-25 00:05:34 INFO  WebDriverListener:78 - After Click on css selector: div.tt-suggestion.tt-selectable]
-2016-07-25 00:05:35 INFO  WebDriverListener:71 - Before Click on css selector: div#bedroom_group button.ms-choice]
-2016-07-25 00:05:36 INFO  WebDriverListener:78 - After Click on css selector: div#bedroom_group button.ms-choice]
-2016-07-25 00:05:36 INFO  WebDriverListener:71 - Before Click on xpath: //div[@id='bedroom_group']//div[@class='ms-drop ']//li[contains(text(),'2 Beds')]]
-2016-07-25 00:05:36 INFO  WebDriverListener:78 - After Click on xpath: //div[@id='bedroom_group']//div[@class='ms-drop ']//li[contains(text(),'2 Beds')]]
-2016-07-25 00:05:36 INFO  WebDriverListener:71 - Before Click on xpath: //span[contains(text(),'Property type')]/ancestor ::div[@class='ms-parent']]
-2016-07-25 00:05:36 INFO  WebDriverListener:78 - After Click on xpath: //span[contains(text(),'Property type')]/ancestor ::div[@class='ms-parent']]
-2016-07-25 00:05:36 INFO  WebDriverListener:71 - Before Click on xpath: //div[@class='pure-g']//li[contains(text(),'Apartment')]]
-2016-07-25 00:05:36 INFO  WebDriverListener:78 - After Click on xpath: //div[@class='pure-g']//li[contains(text(),'Apartment')]]
-2016-07-25 00:05:36 INFO  WebDriverListener:71 - Before Click on css selector: button[type='submit']]
-2016-07-25 00:05:36 INFO  WebDriverListener:78 - After Click on css selector: button[type='submit']]
-2016-07-25 00:05:48 INFO  WebDriverListener:137 - description=====Find property in and validation
-2016-07-25 00:06:13 INFO  WebDriverListener:94 - Launching google chrome with new profile..
-2016-07-25 00:06:33 INFO  WebDriverListener:71 - Before Click on css selector: button.ms-choice]
-2016-07-25 00:06:33 INFO  WebDriverListener:78 - After Click on css selector: button.ms-choice]
-2016-07-25 00:06:34 INFO  WebDriverListener:71 - Before Click on xpath: //div[contains(@class,'category')]//div[@class='ms-drop ']//li[contains(text(),'Rent')]]
-2016-07-25 00:06:36 INFO  WebDriverListener:78 - After Click on xpath: //div[contains(@class,'category')]//div[@class='ms-drop ']//li[contains(text(),'Rent')]]
-2016-07-25 00:06:39 INFO  WebDriverListener:71 - Before Click on css selector: div.tt-suggestion.tt-selectable]
-2016-07-25 00:06:40 INFO  WebDriverListener:78 - After Click on css selector: div.tt-suggestion.tt-selectable]
-2016-07-25 00:06:41 INFO  WebDriverListener:71 - Before Click on css selector: div#bedroom_group button.ms-choice]
-2016-07-25 00:06:42 INFO  WebDriverListener:78 - After Click on css selector: div#bedroom_group button.ms-choice]
-2016-07-25 00:06:42 INFO  WebDriverListener:71 - Before Click on xpath: //div[@id='bedroom_group']//div[@class='ms-drop ']//li[contains(text(),'2 Beds')]]
-2016-07-25 00:06:44 INFO  WebDriverListener:78 - After Click on xpath: //div[@id='bedroom_group']//div[@class='ms-drop ']//li[contains(text(),'2 Beds')]]
-2016-07-25 00:06:44 INFO  WebDriverListener:71 - Before Click on xpath: //span[contains(text(),'Property type')]/ancestor ::div[@class='ms-parent']]
-2016-07-25 00:06:47 INFO  WebDriverListener:78 - After Click on xpath: //span[contains(text(),'Property type')]/ancestor ::div[@class='ms-parent']]
-2016-07-25 00:06:47 INFO  WebDriverListener:71 - Before Click on xpath: //div[@class='pure-g']//li[contains(text(),'Apartment')]]
-2016-07-25 00:06:48 INFO  WebDriverListener:78 - After Click on xpath: //div[@class='pure-g']//li[contains(text(),'Apartment')]]
-2016-07-25 00:06:49 INFO  WebDriverListener:71 - Before Click on css selector: button[type='submit']]
-2016-07-25 00:06:52 INFO  WebDriverListener:78 - After Click on css selector: button[type='submit']]
-2016-07-25 00:07:18 INFO  WebDriverListener:137 - description=====Find property in and validation
+2016-12-16 23:21:48 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-16 23:25:00 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-16 23:29:34 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-16 23:35:41 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-16 23:37:14 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-16 23:41:20 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-16 23:43:19 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-17 00:02:46 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-17 00:04:37 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-24 18:22:13 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-24 18:32:38 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-24 18:41:27 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-24 18:45:30 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-24 18:48:40 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-24 19:22:07 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-24 19:28:47 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-24 19:29:00 INFO  Driver:128 - description=====null
+2016-12-24 19:32:48 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-24 19:43:03 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-24 19:45:09 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-24 19:49:10 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-24 19:51:55 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-24 19:53:51 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-24 20:01:34 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-24 20:34:02 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-24 23:19:04 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-24 23:21:48 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-24 23:24:30 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-24 23:28:09 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-24 23:28:25 INFO  Driver:74 - Before Click on css selector: button.ms-choice]
+2016-12-24 23:32:09 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-24 23:32:24 INFO  Driver:74 - Before Click on css selector: button.ms-choice]
+2016-12-24 23:34:15 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-24 23:34:31 INFO  Driver:74 - Before Click on css selector: button.ms-choice]
+2016-12-24 23:35:16 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-24 23:35:31 INFO  Driver:74 - Before Click on css selector: button.ms-choice]
+2016-12-24 23:38:47 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-24 23:39:03 INFO  Driver:74 - Before Click on css selector: button.ms-choice]
+2016-12-24 23:40:14 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-24 23:40:28 INFO  Driver:74 - Before Click on css selector: button.ms-choice]
+2016-12-24 23:40:58 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-24 23:41:11 INFO  Driver:74 - Before Click on css selector: button.ms-choice]
+2016-12-24 23:42:49 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-24 23:43:03 INFO  Driver:74 - Before Click on css selector: button.ms-choice]
+2016-12-24 23:44:21 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-24 23:44:35 INFO  Driver:74 - Before Click on css selector: button.ms-choice]
+2016-12-24 23:45:08 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-24 23:45:21 INFO  Driver:74 - Before Click on css selector: button.ms-choice]
+2016-12-24 23:51:04 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-24 23:51:20 INFO  Driver:74 - Before Click on css selector: button.ms-choice]
+2016-12-24 23:52:42 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-24 23:52:56 INFO  Driver:74 - Before Click on css selector: button.ms-choice]
+2016-12-25 00:06:19 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-25 00:06:33 INFO  Driver:74 - Before Click on css selector: button.ms-choice]
+2016-12-25 00:09:27 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-25 00:10:22 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-25 00:10:36 INFO  Driver:74 - Before Click on css selector: button.ms-choice]
+2016-12-25 00:12:12 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-25 00:12:27 INFO  Driver:74 - Before Click on css selector: button.ms-choice]
+2016-12-25 00:13:29 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-25 00:13:43 INFO  Driver:74 - Before Click on css selector: button.ms-choice]
+2016-12-25 00:14:30 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-25 00:14:44 INFO  Driver:74 - Before Click on css selector: button.ms-choice]
+2016-12-25 00:16:56 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-25 00:17:09 INFO  Driver:74 - Before Click on css selector: button.ms-choice]
+2016-12-25 00:19:32 INFO  Driver:103 - Launching google chrome with new profile..
+2016-12-25 00:19:47 INFO  Driver:74 - Before Click on css selector: button.ms-choice]

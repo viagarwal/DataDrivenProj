@@ -152,4 +152,10 @@ public class WebDriverWaitUtils {
 		WebDriverWait wait  = new WebDriverWait(driver, 20);
 		wait.until(ExpectedConditions.visibilityOfAllElements(elm));
 	}
+	
+	public void takeScreenshot(WebDriver driver){
+		driver.navigate().refresh();
+		driver.navigate().back();
+		
+	}
 }

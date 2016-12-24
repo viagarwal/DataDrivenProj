@@ -8,15 +8,16 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
 
-import com.propertyfinder.utils.Driver;
 import com.propertyfinder.utils.WebDriverWaitUtils;
+
+import core.Driver;
 
 public class HomePage extends Driver {
 	
 	@FindBy(css ="button.ms-choice") public static WebElement categoryArrow ;
 	@FindBy(css="div#bedroom_group button.ms-choice") public static WebElement bedArrow;
 	@FindBy(css="button[type='submit']") public static WebElement submitButton;
-	@FindBy(css="input[name='q']") public static WebElement searchInput;
+	@FindBy(css="input[name='q']") public  WebElement searchInput;
 	@FindBy(css="div.tt-suggestion.tt-selectable") public static WebElement input;
 	@FindBy(xpath ="//span[contains(text(),'Property type')]/ancestor ::div[@class='ms-parent']") public static WebElement propertyTypeArrow;
 	@FindBy(xpath="//div[@class='info-area']//div[@class='property-details']//span[2]") public static List<WebElement> bedroonDetails;
